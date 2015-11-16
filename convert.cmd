@@ -1,0 +1,1 @@
+ebook-convert podcastscience.html podcastscience.epub  --chapter-mark pagebreak --cover images/cover.jpg  --title="Podcastscience sort du placard" --authors=Podcastscience --epub-inline-toc
